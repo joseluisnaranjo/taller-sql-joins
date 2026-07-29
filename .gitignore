@@ -1,0 +1,21 @@
+# Excluir archivos específicos del docente y copias de seguridad
+Backup.ipynb
+SQL_Infotech_Profesor.ipynb
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python auto-generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Entornos virtuales locales
+bdd_env/
+venv/
+env/
+.venv/
+.env/
